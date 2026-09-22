@@ -75,7 +75,7 @@ C++ · Python · OpenCV · YOLOv4 · PyTorch · CUDA · TensorRT · NVIDIA Jetso
 
 ## Source code
 
-This repository documents the project for portfolio purposes. The production source code itself remains proprietary to Anamis Electronic Vira — happy to walk through the architecture and trade-offs in an interview.
+This repository documents the project for portfolio purposes. The production source code itself remains proprietary to Anamis Electronic Vira.
 
 ## License
 
